@@ -1,6 +1,6 @@
 /*
 ===================================================================================
-Program for GRID FOLLOWING ROBOT
+		Program for GRID FOLLOWING ROBOT
 ===================================================================================
 
 *works with EVEN x-co-ordinates grids only.
@@ -12,13 +12,13 @@ Program for GRID FOLLOWING ROBOT
 	| | | | | | | |
 	| | | | | | | |
 	| |_| |_| |_| |
-	^			        x
+	^	      x
 
 ===================================================================================
-(copywrite) © Poornamith
-the PAH inv
-2015-10-01
-www.poornamith.azurewebsites.net
+							(copywrite) © Poornamith
+									the PAH inv
+									2015-10-01
+						www.poornamith.azurewebsites.net
 ===================================================================================
 */
 
