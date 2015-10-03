@@ -15,10 +15,10 @@
 	^	      x
 
 ===================================================================================
-							(copywrite) © Poornamith
-									the PAH inv
-									2015-10-01
-						www.poornamith.azurewebsites.net
+			(copywrite) © Poornamith
+				the PAH inv
+				2015-10-01
+			www.poornamith.azurewebsites.net
 ===================================================================================
 */
 
@@ -52,7 +52,7 @@ void main()
 		start co-ordinate (0,0)
 
 		end co-oridnate (x-1,0)	 or		(x-1,y-1)
-						(even,even)		(odd,odd)
+				(even,even)		(odd,odd)
 
 		right turn (x varies ,y-1)
 
